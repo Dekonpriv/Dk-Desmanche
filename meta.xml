@@ -1,0 +1,5 @@
+<meta>
+	<info author="Dekonpriv" version="1.0" name="Desmanche por ACL" description="Este é um drop do DekonDrops"/>
+    <script src="script.lua" type="server" />
+	<script src="portao.lua" type="server" />
+</meta>
