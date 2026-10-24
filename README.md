@@ -2,7 +2,7 @@
 <div align="center">
 
 # [Dk] Desmanche
-### Sistema de Desmanche por ACL — MTA:SA
+### Sistema de Desmanche por ACL - MTA:SA
 
 <img src="https://img.shields.io/badge/MTA%3ASA-Resource-blue?style=for-the-badge" alt="MTA SA Resource">
 <img src="https://img.shields.io/badge/Linguagem-Lua-2C2D72?style=for-the-badge" alt="Lua">
@@ -26,13 +26,13 @@ Esta versão é uma atualização do script originalmente publicado em meu Disco
 
 <div align="center">
 
-### Imagem 01 — Demonstração do sistema
+### Imagem 01 - Demonstração do sistema
 
 <img src="https://i.imgur.com/qrI0x7A.png" alt="Demonstração do DkDesmanche2" width="80%">
 
 <br><br>
 
-### Imagem 02 — Sistema em funcionamento
+### Imagem 02 - Sistema em funcionamento
 
 <img src="https://i.imgur.com/qeXc33j.png" alt="Segunda demonstração do DkDesmanche2" width="80%">
 
