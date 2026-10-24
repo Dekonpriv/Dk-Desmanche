@@ -65,12 +65,20 @@ Certifique-se de que o nome corresponda exatamente ao grupo utilizado pelo scrip
 
 ---
 
-## 👤 Autor
+## 📦 Informações
 
+| Detalhe | Informação |
+|---|---|
+| Nome | DK-Desmanche |
+| Plataforma | MTA:SA |
+| Autor | Dekonpriv |
+| Tamanho informado | 2,80 KB |
+
+---
 <div align="center">
 
-**Dekonpriv**
-
+  **Dekonpriv**
+  
 *Desenvolvido para a comunidade MTA:SA.*
 
 </div>
